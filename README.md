@@ -15,21 +15,21 @@ MyPdfChat enhances learning, efficiently analyzes documents, and unlocks knowled
 
 ## Quick start :
 
-Start by downloading this repository. If you already use git, you can use the following command to clone this repository to your local machine:
+1. Start by downloading this repository. If you already use git, you can use the following command to clone this repository to your local machine:
 
 ```git clone https://github.com/stodar/MyPdfChat.git```
 
-Once cloned or unzipped you should navigate to the MyPdfChat directory from the command line.
+2. Once cloned or unzipped you should navigate to the MyPdfChat directory from the command line.
 
 ```cd MyPdfChat```
 
-Use our provided requirements.txt to install Python packages.
+3. Use our provided requirements.txt to install Python packages.
 
 ```pip install -r requirements.txt```
 
-Add your OpenAI Key in ApiKey.txt
+4. Add your OpenAI Key in ApiKey.txt
 
-Start App :
+5. Start App :
 
 ```python -m streamlit run 1_$'\360\237\233\226'_Home.py```
 
