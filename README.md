@@ -1,16 +1,11 @@
 # MyPdfChat
 MyPdfChat enhances learning, efficiently analyzes documents, and unlocks knowledge from any PDF.
 
-##
-1. [Video Demo](#section-4)
-2. Info
-3. Quick start
-
-## Video Demo :
+## 1. Video Demo :
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qrKwtJN2yfo/0.jpg)](https://www.youtube.com/watch?v=qrKwtJN2yfo)
 
-## Info :
+## 2. Info :
 
 ***If you're a student***, ChatPDF can make your learning experience more efficient and effective. With ChatPDF, you can easily understand textbooks, handouts, presentations, and research papers without wasting hours flipping through them. By supporting your academic growth, ChatPDF can help you succeed in your studies responsibly.
 
@@ -18,7 +13,7 @@ MyPdfChat enhances learning, efficiently analyzes documents, and unlocks knowled
 
 ***If you're a curious person***, ChatPDF can unlock a wealth of knowledge from historical documents, poetry, literature, and more. ChatPDF understands any language and can reply in your preferred one, making it easy to satisfy your curiosity and expand your horizons. With ChatPDF, you can get answers to any question from any PDF.
 
-## Quick start :
+## 3. Quick start :
 
 1. Start by downloading this repository. If you already use git, you can use the following command to clone this repository to your local machine:
 
