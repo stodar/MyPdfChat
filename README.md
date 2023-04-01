@@ -3,7 +3,7 @@ MyPdfChat enhances learning, efficiently analyzes documents, and unlocks knowled
 
 ## 1. Video Demo :
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qrKwtJN2yfo/0.jpg)](https://www.youtube.com/watch?v=qrKwtJN2yfo)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qrKwtJN2yfo/1.jpg)](https://www.youtube.com/watch?v=qrKwtJN2yfo)
 
 ## 2. Info :
 
