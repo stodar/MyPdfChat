@@ -1,6 +1,7 @@
 # MyPdfChat
 MyPdfChat enhances learning, efficiently analyzes documents, and unlocks knowledge from any PDF.
 
+*Video*
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qrKwtJN2yfo/0.jpg)](https://www.youtube.com/watch?v=qrKwtJN2yfo)
 
 ***If you're a student***, ChatPDF can make your learning experience more efficient and effective. With ChatPDF, you can easily understand textbooks, handouts, presentations, and research papers without wasting hours flipping through them. By supporting your academic growth, ChatPDF can help you succeed in your studies responsibly.
