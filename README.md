@@ -2,7 +2,7 @@
 MyPdfChat enhances learning, efficiently analyzes documents, and unlocks knowledge from any PDF.
 
 ##
-1. [Video Demo](##section-4)
+1. [Video Demo](#section-4)
 2. Info
 3. Quick start
 
